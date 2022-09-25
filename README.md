@@ -23,7 +23,7 @@ System.out.println("El resultado es: "+resultado);
 }
 ```
 
-![alt text]()
+
 
 
 
